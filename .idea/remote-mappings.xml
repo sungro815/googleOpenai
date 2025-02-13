@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@ee494684-a5ba-4743-9b35-737a58a09b8a" />
+        <remote-mappings server-id="python@sshConfig://sungro815@192.168.0.29:22 password/home/sungro815/my_env/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/sungro815/googleOpenai" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>

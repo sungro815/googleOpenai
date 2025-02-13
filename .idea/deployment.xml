@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="sungro815@192.168.0.29:22" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="sshConfig://sungro815@192.168.0.29:22 password/home/sungro815/my_env/bin/python3">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/sungro815/googleOpenai" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sungro815@192.168.0.29:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/sungro815/googleOpenai" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
